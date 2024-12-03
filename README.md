@@ -18,14 +18,22 @@ db= 10log(p/pref)
       - to be converted to dbFS for digital fader (amplitude 1 = dBFS = closest to digital clipping)
         - dBFS = 20log( (absolute value instantaneous amplitude) / 1)
           - absolute = signed and unsigned digital audio data values is declared in WAVE header, both takes same data size, therefore it does not matter
-          
+            - `char` = 0 - 255 = 8 bit = 1 byte = FF
+            - 24 bit = 4 `char`s
+            - sine wave to 24 bit signed .wav = `casted to 4 char`(`sine wave output in signed decimal float with value less than 1` * `max amplitude which is calculated by 2^ 24 bitdepth` - 1)
+            - PCM is bascially digital output from ADC (10bit ADC = 0 - 1023)
+
 - [工具：VRMS/dBm/dBu/dBV计算器 | Analog Devices](https://www.analog.com/cn/resources/interactive-design-tools/dbconvert.html)
 - http://www.onebandsystem.com/node/582
 - log / linear
 
-- [The decibel explained! dB SPL (sound pressure level) and dBFS - Ep. 02 - YouTube](https://www.youtube.com/watch?v=ERMrgyIMxdg) 
+
 - dBm
 - dbu
 - dBTP
 - dBov
 dBO   
+
+### Tutorials
+- [WAV Files: File Structure, Case Analysis and PCM Explained](https://www.videoproc.com/resource/wav-file.htm)
+- [The decibel explained! dB SPL (sound pressure level) and dBFS - Ep. 02 - YouTube](https://www.youtube.com/watch?v=ERMrgyIMxdg) 

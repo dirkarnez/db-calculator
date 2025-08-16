@@ -9,7 +9,7 @@ db= 10log(p/pref)
     - dbV = 20 log(Vrms / 1V)
       - 0dBV = 1V (less than 0dBV = less than 1 V, vice versa)
   - dBSPL
-  - dbu
+  - **dbu**
 - Digital DBs
   - dBFS (in daw, 0 to minus infinity)
     - DAW waveform uses -1 to 1 digital value

@@ -26,8 +26,6 @@ db= 10log(p/pref)
 - [工具：VRMS/dBm/dBu/dBV计算器 | Analog Devices](https://www.analog.com/cn/resources/interactive-design-tools/dbconvert.html)
 - http://www.onebandsystem.com/node/582
 - log / linear
-
-
 - dBm
 - dbu
 - dBTP
@@ -35,6 +33,7 @@ db= 10log(p/pref)
 dBO   
 
 ### Tutorials
+- [Audio normalization explained: a complete guide to balanced sound](https://waves-system.com/en/actualites/audio-normalization/)
 - [WAV Files: File Structure, Case Analysis and PCM Explained](https://www.videoproc.com/resource/wav-file.htm)
 - [The decibel explained! dB SPL (sound pressure level) and dBFS - Ep. 02 - YouTube](https://www.youtube.com/watch?v=ERMrgyIMxdg)
 - https://assets.wavescdn.com/pdf/plugins/vu-meter.pdf

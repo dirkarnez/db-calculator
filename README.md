@@ -33,6 +33,7 @@ db= 10log(p/pref)
 dBO   
 
 ### Tutorials
+- [Line level - Wikipedia](https://en.wikipedia.org/wiki/Line_level)
 - [Audio normalization explained: a complete guide to balanced sound](https://waves-system.com/en/actualites/audio-normalization/)
 - [WAV Files: File Structure, Case Analysis and PCM Explained](https://www.videoproc.com/resource/wav-file.htm)
 - [The decibel explained! dB SPL (sound pressure level) and dBFS - Ep. 02 - YouTube](https://www.youtube.com/watch?v=ERMrgyIMxdg)

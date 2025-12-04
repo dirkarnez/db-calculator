@@ -30,7 +30,13 @@ db= 10log(p/pref)
 - dbu
 - dBTP
 - dBov
-dBO   
+- dBO
+- [A-weighting - Wikipedia](https://en.wikipedia.org/wiki/A-weighting) (dbA)
+  - [《振動噪音科普專欄》聲音壓力位準 dB 和 dB(A)有甚麼不同？ ~ 振動噪音產學技術聯盟](https://aitanvh.blogspot.com/2018/04/db-dba.html)
+  - [What is an A-weighted decibel (dBA or dB(A))?](https://www.techtarget.com/whatis/definition/A-weighted-decibels-dBA-or-dBa-or-dBa)
+  - [Frequency Weightings - A-Weighted, C-Weighted or Z-Weighted](https://www.noisemeters.com/help/faq/frequency-weighting/?srsltid=AfmBOoqkiesN2Ybd6eqZYGs4qddhDtr4VRSAYdu-wegLXz3Dq1ZLDWsz)
+  - [What is A-Weighting? | Ansys](https://www.ansys.com/blog/what-is-a-weighting)
+  - [Sound and Noise - Characteristics of Sound and the Decibel Scale](https://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m1/intro_5.html)
 
 ### Tutorials
 - [Line level - Wikipedia](https://en.wikipedia.org/wiki/Line_level)

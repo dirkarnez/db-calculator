@@ -39,6 +39,7 @@ db= 10log(p/pref)
   - [Sound and Noise - Characteristics of Sound and the Decibel Scale](https://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m1/intro_5.html)
 
 ### Tutorials
+- [32-Bit Float Files Explained - Sound Devices](https://www.sounddevices.com/32-bit-float-files-explained/)
 - [Line level - Wikipedia](https://en.wikipedia.org/wiki/Line_level)
 - [Audio normalization explained: a complete guide to balanced sound](https://waves-system.com/en/actualites/audio-normalization/)
 - [WAV Files: File Structure, Case Analysis and PCM Explained](https://www.videoproc.com/resource/wav-file.htm)

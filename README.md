@@ -28,6 +28,7 @@ db= 10log(p/pref)
 - log / linear
 - dBm
 - dbu
+- dBW
 - dBTP
 - dBov
 - dBO

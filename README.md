@@ -32,6 +32,7 @@ db= 10log(p/pref)
 - dBTP
 - dBov
 - dBO
+- dB in dynamic range
 - [A-weighting - Wikipedia](https://en.wikipedia.org/wiki/A-weighting) (dbA)
   - [《振動噪音科普專欄》聲音壓力位準 dB 和 dB(A)有甚麼不同？ ~ 振動噪音產學技術聯盟](https://aitanvh.blogspot.com/2018/04/db-dba.html)
   - [What is an A-weighted decibel (dBA or dB(A))?](https://www.techtarget.com/whatis/definition/A-weighted-decibels-dBA-or-dBa-or-dBa)

@@ -2,6 +2,7 @@ db-calculator
 =============
 db= 10log(p/pref)
 ### TODOs
+- Just **dB**
 - Gain to db (20 × log10(20) = 26 dB)
 - Analog DB
   - pascal
@@ -10,6 +11,9 @@ db= 10log(p/pref)
       - 0dBV = 1V (less than 0dBV = less than 1 V, vice versa)
   - dBSPL
   - **dbu**
+  - dbm
+  - dbi
+  - dbw
 - Digital DBs
   - dBFS (in daw, 0 to minus infinity)
     - DAW waveform uses -1 to 1 digital value

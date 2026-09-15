@@ -53,3 +53,6 @@ db= 10log(p/pref)
 - https://assets.wavescdn.com/pdf/plugins/vu-meter.pdf
 - [常用音频单位简介：dBSPL、dBm、dBu、dBV、dBFS-CSDN博客](https://blog.csdn.net/u010538116/article/details/80762816)
 - [mic in、line in&line out、speaker out、headphone out　区别_mic in和line in line out-CSDN博客](https://blog.csdn.net/u010538116/article/details/80386813)
+
+
+<!-- Security scan triggered at 2026-09-15 09:39:42 -->
